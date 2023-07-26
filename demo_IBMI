@@ -1,7 +1,7 @@
      da                s              5s 0
      db                s              5s 0
      dc                s              5s 0
-     c                   eval      a=10
+     c                   eval      a=15
      c                   eval      b=10
      c     a             add       b             c
      c                   eval      *inlr = *on
